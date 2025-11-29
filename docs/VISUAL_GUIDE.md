@@ -5,40 +5,40 @@
 ### Main Window Layout
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ Systems Engineering Certification Quiz                                  │
-├─────────────────────────────────────────────────────────────────────────┤
+┌──────────────────────────────────────────────────────────────────────────┐
+│ Systems Engineering Certification Quiz                                   │
+├──────────────────────────────────────────────────────────────────────────┤
 │                                                                          │
-│  Question 1 of 300                                  Score: 0/0 (0%)    │
+│  Question 1 of 300                                  Score: 0/0 (0%)      │
 │                                                                          │
-│  Knowledge Area: Systems Engineering Fundamentals                       │
+│  Knowledge Area: Systems Engineering Fundamentals                        │
 │                                                                          │
-│  ┌─ Question ─────────────────────────────────────────────────────────┐ │
-│  │                                                                     │ │
-│  │  What is the primary purpose of systems engineering?               │ │
-│  │                                                                     │ │
-│  │                                                                     │ │
-│  │                                                                     │ │
-│  └─────────────────────────────────────────────────────────────────────┘ │
+│  ┌─ Question ─────────────────────────────────────────────────────────┐  │
+│  │                                                                    │  │
+│  │  What is the primary purpose of systems engineering?               │  │
+│  │                                                                    │  │
+│  │                                                                    │  │
+│  │                                                                    │  │
+│  └────────────────────────────────────────────────────────────────────┘  │
 │                                                                          │
-│  ┌─ Select Your Answer ──────────────────────────────────────────────┐ │
-│  │                                                                     │ │
-│  │  ○ A) To design individual components                              │ │
-│  │                                                                     │ │
-│  │  ○ B) To reduce project costs only                                 │ │
-│  │                                                                     │ │
-│  │  ○ C) To integrate and manage complex systems throughout their     │ │
-│  │       lifecycle                                                     │ │
-│  │                                                                     │ │
-│  │  ○ D) To create software applications                              │ │
-│  │                                                                     │ │
-│  └─────────────────────────────────────────────────────────────────────┘ │
+│  ┌─ Select Your Answer ───────────────────────────────────────────────┐  │
+│  │                                                                    │  │
+│  │  ○ A) To design individual components                              │  │
+│  │                                                                    │  │
+│  │  ○ B) To reduce project costs only                                 │  │
+│  │                                                                    │  │
+│  │  ○ C) To integrate and manage complex systems throughout their     │  │
+│  │       lifecycle                                                    │  │
+│  │                                                                    │  │
+│  │  ○ D) To create software applications                              │  │
+│  │                                                                    │  │
+│  └────────────────────────────────────────────────────────────────────┘  │
 │                                                                          │
-│  [Feedback area - appears after submission]                            │
+│  [Feedback area - appears after submission]                              │
 │                                                                          │
 │  [ Submit Answer ]  [ Next Question ]  [ Review Answer ]  [ Finish Quiz ]│
 │                                                                          │
-└─────────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## Feature Demonstrations
@@ -80,23 +80,23 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ Answer Review                                                │
+│ Answer Review                                               │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Question:                                                   │
+│                                                             │
+│  Question:                                                  │
 │  ┌────────────────────────────────────────────────────────┐ │
 │  │ What is the primary purpose of systems engineering?    │ │
 │  └────────────────────────────────────────────────────────┘ │
-│                                                              │
+│                                                             │
 │  Correct Answer:                                            │
 │  To integrate and manage complex systems throughout their   │
-│  lifecycle                                                   │
-│                                                              │
+│  lifecycle                                                  │
+│                                                             │
 │  Your Answer: (if incorrect)                                │
 │  To design individual components                            │
-│                                                              │
-│                    [ Close ]                                 │
-│                                                              │
+│                                                             │
+│                    [ Close ]                                │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -104,41 +104,41 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ Quiz Results                                                 │
+│ Quiz Results                                                │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│                    Quiz Complete!                            │
-│                                                              │
-│                     PASSED ✓                                 │
-│                   (or FAILED ✗)                              │
-│                                                              │
+│                                                             │
+│                    Quiz Complete!                           │
+│                                                             │
+│                     PASSED ✓                                │
+│                   (or FAILED ✗)                             │
+│                                                             │
 │            Final Score: 245/300 (81.7%)                     │
-│              Passing Grade: 70%                              │
-│                                                              │
-│         Performance by Knowledge Area:                       │
+│              Passing Grade: 70%                             │
+│                                                             │
+│         Performance by Knowledge Area:                      │
 │  ┌────────────────────────────────────────────────────────┐ │
-│  │                                                         │ │
+│  │                                                        │ │
 │  │ Systems Engineering Fundamentals:                      │ │
 │  │   16/20 (80.0%)                                        │ │
-│  │                                                         │ │
-│  │ Requirements Engineering:                               │ │
+│  │                                                        │ │
+│  │ Requirements Engineering:                              │ │
 │  │   12/15 (80.0%)                                        │ │
-│  │                                                         │ │
+│  │                                                        │ │
 │  │ System Architecture and Design:                        │ │
 │  │   11/15 (73.3%)                                        │ │
-│  │                                                         │ │
+│  │                                                        │ │
 │  │ Integration, Verification & Validation:                │ │
 │  │   13/15 (86.7%)                                        │ │
-│  │                                                         │ │
-│  │ Risk Management:                                        │ │
+│  │                                                        │ │
+│  │ Risk Management:                                       │ │
 │  │   8/10 (80.0%)                                         │ │
-│  │                                                         │ │
+│  │                                                        │ │
 │  │ [... more knowledge areas ...]                         │ │
-│  │                                                         │ │
+│  │                                                        │ │
 │  └────────────────────────────────────────────────────────┘ │
-│                                                              │
-│         [ Restart Quiz ]           [ Exit ]                  │
-│                                                              │
+│                                                             │
+│         [ Restart Quiz ]           [ Exit ]                 │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
